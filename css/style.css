@@ -1,0 +1,13 @@
+p {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+#third{
+    color: red;
+    font-family: cursive;
+    font-size: 50px;
+}
+body{
+    background-color: red;
+}
